@@ -1,0 +1,17 @@
+button {
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 30px;
+    margin: 5px;
+    outline: none;
+}
+
+.unclicked {
+    background-color: teal;
+}
+
+.clicked {
+    background-color: rgb(51, 168, 168);
+}

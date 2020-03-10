@@ -1,0 +1,27 @@
+nav {
+    user-select: none;
+}
+
+.topbar {
+    background-color: teal;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h2 {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.menu {
+    background-color: rgba(51, 168, 168, 0.5);
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menu ul li {
+    list-style: none;
+    padding: 5px;
+}
